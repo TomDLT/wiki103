@@ -1,0 +1,15 @@
+*.pyc
+*.egg-info/
+*.so
+
+.vscode
+.pytest_cache
+__pycache__
+.coverage
+.idea
+htmlcov/
+build/
+dist/
+
+vocabulary.npy
+*.log
